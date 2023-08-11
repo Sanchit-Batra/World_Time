@@ -33,6 +33,9 @@ class _ChooseLocationState extends State<ChooseLocation> {
 
   @override
   Widget build(BuildContext context) {
+    double height = MediaQuery.of(context).size.height;
+    EdgeInsets padding = MediaQuery.of(context).padding;
+    double window_height = height - padding.top - padding.bottom;
     return Scaffold(
       appBar: AppBar(
         title: const Text("Choose Timezone"),
@@ -41,7 +44,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
         // mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: [
           Padding(
-            padding: const EdgeInsets.all(8.0),
+            padding: EdgeInsets.all(window_height/107.375),
             child: TextField(
               decoration: const InputDecoration(
                   border: OutlineInputBorder(
@@ -72,7 +75,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
                 itemBuilder: (context, index) {
                   return match_countries.isNotEmpty
                       ? Padding(
-                          padding: const EdgeInsets.all(8.0),
+                          padding: EdgeInsets.all(window_height/107.375),
                           child: ElevatedButton(
                             onPressed: () {
                               updateTime(index);
