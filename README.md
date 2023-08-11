@@ -2,7 +2,7 @@
 
 A Flutter application that displays the current time for different cities around the world.
 
-![App Screenshot](assets/images/AppLogo.png)
+[App Screenshot](assets/images/AppLogo.png)
 
 ## Features
 
@@ -22,16 +22,16 @@ A Flutter application that displays the current time for different cities around
 
 1. Open the app.
 2. The app will display the current time for a default city, i.e. Kolkata.
-3. To select any otheer city more cities:
+3. To select any other city:
    - Tap the pencil icon.
    - Search for the desired city and select it.
    - The city's current time will be displayed.
 
 ## Screenshots
 
-![Screenshot 1](assets/images/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 22.06.59.png)
-![Screenshot 2](assets/images/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 22.07.37.png)
-![Screenshot 2](assets/images/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 22.08.37.png)
+[Screenshot 1](assets/images/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 22.06.59.png)
+[Screenshot 2](assets/images/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 22.07.37.png)
+[Screenshot 2](assets/images/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 22.08.37.png)
 
 ## Contributing
 
