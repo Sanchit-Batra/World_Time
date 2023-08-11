@@ -2,7 +2,7 @@
 
 A Flutter application that displays the current time for different cities around the world.
 
-[App Screenshot](assets/images/AppLogo.png)
+![App Screenshot](assets/images/AppLogo.png)
 
 ## Features
 
@@ -29,9 +29,9 @@ A Flutter application that displays the current time for different cities around
 
 ## Screenshots
 
-[Screenshot 1](assets/images/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 22.06.59.png)
-[Screenshot 2](assets/images/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 22.07.37.png)
-[Screenshot 2](assets/images/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 22.08.37.png)
+![Screenshot 1](assets/images/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 22.06.59.png)
+![Screenshot 2](assets/images/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 22.07.37.png)
+![Screenshot 2](assets/images/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 22.08.37.png)
 
 ## Contributing
 
